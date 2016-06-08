@@ -1,7 +1,7 @@
 /*!
- * Agency v1.0.7 (http://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ * Agency v0.0.1 (http://startbootstrap.com)
+ * Copyright 2016 Start Bootstrap
+ * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
 
 body {
@@ -715,10 +715,6 @@ ul.social-buttons li a:active {
   -webkit-transform: rotate(90deg);
   /* Safari and Chrome */
   z-index: 1052;
-}
-.portfolio-modal .modal-backdrop {
-  opacity: 0;
-  display: none;
 }
 ::-moz-selection {
   text-shadow: none;
